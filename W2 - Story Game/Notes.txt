@@ -1,0 +1,9 @@
+GV: 
+GV: T = Turret, 0 = off, 1 = on
+GV: M = Mission 1 Story Stage
+
+
+Debug Keybindings
+T = Activate turret T=1
+Y = Deactivate turret T=0
+G = Spawn player gun 
